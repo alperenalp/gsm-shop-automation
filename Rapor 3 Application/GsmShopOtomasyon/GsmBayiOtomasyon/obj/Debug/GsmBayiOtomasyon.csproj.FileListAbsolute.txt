@@ -1,0 +1,26 @@
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.exe.config
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.exe
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.pdb
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.Form1.resources
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.Properties.Resources.resources
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.csproj.GenerateResource.Cache
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.exe
+c:\users\alperen\documents\visual studio 2015\Projects\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.pdb
+C:\Users\Alperen\Desktop\Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.exe.config
+C:\Users\Alperen\Desktop\Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.exe
+C:\Users\Alperen\Desktop\Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.pdb
+C:\Users\Alperen\Desktop\vt\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.exe.config
+C:\Users\Alperen\Desktop\vt\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.exe
+C:\Users\Alperen\Desktop\vt\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.pdb
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.exe.config
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.exe
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\bin\Debug\GsmBayiOtomasyon.pdb
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.Form1.resources
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.exe
+C:\Users\Alperen\Desktop\Veri Tabanı 2\Veri Tabanı 2 Final Ödevi\Rapor 3 Uygulama\GsmBayiOtomasyon\GsmBayiOtomasyon\obj\Debug\GsmBayiOtomasyon.pdb
